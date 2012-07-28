@@ -1,0 +1,44 @@
+mangos-zero ![Project status](http://getmangos.com/assets/img/repository-status-maintained.png)
+===========
+*mangos-zero* is a full featured server, including authentication, client updates,
+and world content serving compatible with the classic [World of Warcaft][50]
+experience for *World of Warcraft Client Patch 1.12* - [_Drums of War_][51].
+
+**mangos-zero** is released under the GPL v2.  The file (`LICENSE.mdown`) **must**
+be a part of any redistributable packages made from this software.  No licenses
+should be removed from this software if you are making redistributable copies.
+
+scriptdev0 ![Project status](http://getmangos.com/assets/img/repository-status-maintained.png)
+==========
+*scriptdev0* provides bindings to create custom creature reactions, events,
+game objects, items, spells, and more for [mangos-zero][10] that can not be
+created via the [mangos-zero game content database][12].
+
+*scriptdev0* is based on the original [scriptdev2][21] bindings for [mangos][20]
+and contains many custom scripts for content which was available in the classic
+[World of Warcaft][50] experience for *World of Warcraft Client Patch 1.12* -
+[_Drums of War_][51].
+
+**scriptdev0** is released under the GPL v2.  The file (`LICENSE.mdown`) **must**
+be a part of any redistributable packages made from this software.  No licenses
+should be removed from this software if you are making redistributable copies.
+
+And if something goes wrong?
+----------------------------
+_If_ you feel like submitting an issue, please do so *only* if you are willing
+to provide a detailed report, and are available to verify any solution to the
+issue provided by the developers of this repository.
+
+
+Credits
+-------
+MaNGOS has originally been written by Team Python and WoW Daemon Team. Many
+people further contributed to MaNGOS by reporting problems, suggesting various
+improvements or submitting actual code.
+
+Special thanks should also go out to the WowwoW team. We have gained help from
+them many times in the creation of this project.
+
+Thanks should also go out to the Ludmilla team, who are also providing the
+community with a great server. We have not gained too much help from them,
+but we have recieved some.
